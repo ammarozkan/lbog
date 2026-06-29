@@ -181,6 +181,7 @@ management tools from there.
 | `/trending`     | `src/trending.php`      | Manage trending posts              |
 | `/gallery`      | `src/gallery.php`       | Image gallery with lightbox        |
 | `/upload`       | `src/upload.php`        | Image upload API (POST)            |
+| `/image`        | `src/image.php`         | Image proxy / access control       |
 | `/uploads/`     | `data/uploads/`         | Static image files (blocked)       |
 
 Direct access to any `*.php` file returns 404.
